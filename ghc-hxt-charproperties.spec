@@ -6,7 +6,7 @@
 Summary:	Character properties and classes for XML and Unicode
 Name:		ghc-%{pkgname}
 Version:	9.4.0.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/hxt-charproperties
